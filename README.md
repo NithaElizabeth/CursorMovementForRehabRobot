@@ -1,7 +1,7 @@
 # Cursor Movement Using Motion data for Rehabilation Robots
 The aim of this project is to build a simulink model so as to move the cursor on the virtual model and reach the target points using motion data acquired using the sensors of a smart phone which acts as the manupulator for this purpose.
 
-## Project Setup
+## Project in brief
 The program is coded in MATLAB Simulink.The program has a simulink model (bio3.slx) and a function file (plotmotiondata.m) for plotting the motion data and a helper function
 (convertnew.m) for reshapping and formatting the data saved.
 
