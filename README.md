@@ -9,4 +9,13 @@ In this project, the test was initially done with both Accelerometer and Gyrosco
 
 ![1](https://user-images.githubusercontent.com/47361086/112382226-08632400-8d05-11eb-845d-8aa5074c159e.PNG)
 
-
+## Installation and Running Procedure
+This program requires a working MATLAB and Simulink installation.
+To run this program clone this repository into your workspace
+```
+git clone https://github.com/NithaElizabeth/CursorMovementForRehabRobot
+```
+## Author
+The system was developed by Nitha Elizabeth John as a part of academic curriculam of EMARO.\
+Author  : Nitha Elizabeth John\
+Contact : nithaelizabethjohn@gmail.com
